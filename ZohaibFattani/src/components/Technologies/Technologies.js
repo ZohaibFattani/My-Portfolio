@@ -20,7 +20,7 @@ const Technologies = () => (
     <br />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I have learned and created projects with a range of technologies in the web development world. From Front-end to Back-end to Design.
+      I have learned and created projects with a range of technologies in the web development world: Front-End, Back-End and Design.
     </SectionText>
     <List>
       <ListItem>

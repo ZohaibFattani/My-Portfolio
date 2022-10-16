@@ -5,7 +5,7 @@ export const projects = [
       "Space Invaders is a classic game that you should be able to find at any retro-based arcade.",
     image: "/images/1.png",
     tags: ["HTML", "CSS", "JavaScript"],
-    source: "https://polite-heliotrope-94bf7d.netlify.app/",
+    source: "https://space-invaders-kshyejqx0-zohaibfattani.vercel.app/",
     visit: "https://github.com/ZohaibFattani/Space-Invaders",
     id: 0,
   },
@@ -15,7 +15,7 @@ export const projects = [
       "Building a fully responsive website with Modern UI/UX in React JS with Tailwind",
     image: "/images/2.png",
     tags: ["React", "JavaScript"],
-    source: "https://google.com",
+    source: "https://modern-bank-opal.vercel.app/",
     visit: "https://github.com/ZohaibFattani/bank_modern_app",
     id: 1,
   },
@@ -31,8 +31,7 @@ export const projects = [
   },
   {
     title: "IN PROGRESS",
-    description:
-      " ",
+    description: " ",
     image: "/images/progress.jpeg",
     tags: [" "],
     source: "https://google.com",
@@ -43,9 +42,21 @@ export const projects = [
 
 export const TimeLineData = [
   { year: 2022, text: "Started my journey" },
-  { year: 2022 + ' March', text: "Enrolled in an Introductory to Software Development Course" },
-  { year: 2022 + ' June', text: "Started Software Development Bootcamp at CalState-LongBeach" },
-  { year: 2022 + ' August', text: "Learned the fundamentals of Programming and Design" },
-  { year: 2022 + ' September', text: "Started to freelance and create projects for potential clients" },
-  {year: 2022 + ' Present', text: "Looking for a Career oppurtunity"}
+  {
+    year: 2022 + " March",
+    text: "Enrolled in an Introductory to Software Development Course",
+  },
+  {
+    year: 2022 + " June",
+    text: "Started Software Development Bootcamp at CalState-LongBeach",
+  },
+  {
+    year: 2022 + " August",
+    text: "Learned the fundamentals of Programming and Design",
+  },
+  {
+    year: 2022 + " September",
+    text: "Started to freelance and create projects for potential clients",
+  },
+  { year: 2022 + " Present", text: "Looking for a Career oppurtunity" },
 ];

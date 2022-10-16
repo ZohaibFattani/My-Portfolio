@@ -20,13 +20,13 @@ export const projects = [
     id: 1,
   },
   {
-    title: "IN PROGRESS",
+    title: "E-Commerce Application",
     description:
-      " ",
-    image: "/images/progress.jpeg",
-    tags: [" "],
-    source: "https://google.com",
-    visit: "https://google.com",
+      "This project includes modern design and animations, the ability to add and edit products on the go using a Sanity, all advanced cart, and checkout functionalities, and most importantly, the complete integration with Stripe so that you can cover real payments.",
+    image: "/images/3.png",
+    tags: ["React", "JavaScript", "Next.js", "Stripe", "Sanity"],
+    source: "https://ecommerce-project-lac.vercel.app/",
+    visit: "https://github.com/ZohaibFattani/Ecommerce-Project",
     id: 2,
   },
   {
